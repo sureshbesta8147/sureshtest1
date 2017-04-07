@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "qt-apache",
-  "version": "0.1.0",
-  "author": "qt",
-=======
-  "name": "ss-apache",
+  "name": "ss-test",
   "version": "0.1.0",
   "author": "ss",
->>>>>>> fc22de089fc85d031fbf661c99abc04c790d6934
   "summary": null,
   "license": "Apache-2.0",
   "source": "",
